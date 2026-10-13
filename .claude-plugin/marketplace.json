@@ -1,0 +1,18 @@
+{
+  "name": "fystack",
+  "owner": {
+    "name": "Fystack",
+    "url": "https://fystack.io"
+  },
+  "description": "Agent skills for building on Fystack, the self-custody digital asset platform.",
+  "plugins": [
+    {
+      "name": "fystack",
+      "source": "./",
+      "description": "Teaches coding agents to integrate the Fystack API and TypeScript SDK: authentication, wallets, deposits, withdrawals, webhooks, Web3 signing and policies.",
+      "version": "0.1.0",
+      "category": "development",
+      "tags": ["fystack", "wallets", "mpc", "custody", "web3", "payments"]
+    }
+  ]
+}
